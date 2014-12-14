@@ -1,0 +1,30 @@
+<!--	
+		Author:Kenny Thorson	
+		Date:10/7/14
+		File:	fuelCost.html
+		Purpose: Chapter 7 Exercise
+-->
+
+<html>
+<head>
+	<title>Fuel Costs</title>
+	<link rel ="stylesheet" type="text/css" href="sample.css" />
+</head>
+
+<body>
+	<h1>Fuel Cost Calculator</h1>
+	<p>This program will help you calculate fuel costs for a trip.</p>
+	<form action = "fuelCost.php" method = "post">
+	<table>
+	<tr><td>What is your car's average fuel consumption (mpg):</td><td><input type = "text" size = "20" name = "mpg" /></td><tr>
+	<tr><td>How long is this trip in miles?</td><td><input type = "text" size = "20" name = "miles" /></td><tr>
+	<tr><td>What do you pay on average for a gallon fuel?</td><td><input type = "text" size = "20" name = "costPerGallon" /></td><tr>
+	<tr><td>Was this trip work related?</td><td><select name = "work">
+	<option>YES</option>
+	<option>NO</option>
+	</select></td></tr>
+	</table>
+	<p><input type = "submit" value = "Tell me the Cost" /></p>
+	</form>
+</body>
+</html>
