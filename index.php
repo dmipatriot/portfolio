@@ -30,9 +30,9 @@
 		<div class="col-md-4">
 			<h2 class="text-center">Chapters 6-8</h2>
 			<p>In chapters 6-8 it covered more PHP and more advanced PHP functions and printing out results. </p>
-			<p class="text-center"><a class="btn btn-default" href="phphw/ch6trip/tripLog.html" ><span class="glyphicon glyphicon-inbox"></span>  View Ch 6</a></p>
-			<p class="text-center"><a class="btn btn-default" href="phphw/ch7fuel/fuelCost.html" ><span class="glyphicon glyphicon-inbox"></span>  View Ch 7</a></p>
-			<p class="text-center"><a class="btn btn-default" href="phphw/ch8software/softwareOrder.html" ><span class="glyphicon glyphicon-inbox"></span>  View Ch 8</a></p>
+			<p class="text-center"><a class="btn btn-default" href="phphw/ch6trip/tripLog.html" ><span class="glyphicon glyphicon-inbox"></span> View Ch 6</a></p>
+			<p class="text-center"><a class="btn btn-default" href="phphw/ch7fuel/fuelCost.html" ><span class="glyphicon glyphicon-inbox"></span> View Ch 7</a></p>
+			<p class="text-center"><a class="btn btn-default" href="phphw/ch8software/softwareOrder.html" ><span class="glyphicon glyphicon-inbox"></span> View Ch 8</a></p>
 		</div>
 		</div>
 	<div class="row"><!-- Adds second column of rows-->
